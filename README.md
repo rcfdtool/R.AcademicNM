@@ -1,0 +1,2 @@
+# iamR_AcademicNM
+ACADEMIC NEURONAL NETWORK MAP App.
