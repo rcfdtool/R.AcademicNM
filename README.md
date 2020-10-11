@@ -1,4 +1,4 @@
-# iamR AcademicNM
+# R.AcademicNM
 ACADEMIC NEURONAL NETWORK MAP App.
 
 ¿QUÉ ES EL MODELO - ANM?
